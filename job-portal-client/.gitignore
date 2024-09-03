@@ -1,0 +1,42 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+<svg 
+    xmlns="http://www.w3.org/2000/svg"
+     width="29"
+      height="30" 
+      viewBox="0 0 29 30" 
+      fill="none"
+    >
+    
+    <circle
+     cx="12.0143" 
+    cy="12.2643" r="11.5143" 
+    fill="#3575E2" 
+    fillOpacity="0.4"
+     stroke="black" />
+    <path d="M28.5 17.25C28.5 20.6148 27.5717 23.6389 26.0969 25.8077C24.6204 27.9791 22.6326 29.25 20.5 29.25C18.3674 29.25 16.3796 27.9791 14.9031 25.8077C13.4283 23.6389 12.5 20.6148 12.5 17.25C12.5 13.8852 13.4283 10.8611 14.9031 8.69232C16.3796 6.52091 18.3674 5.25 20.5 5.25C22.6326 5.25 24.6204 6.52091 26.0969 8.69232C27.5717 10.8611 28.5 13.8852 28.5 17.25Z" fill="#3575E2" stroke="black" />
+    </svg> 
